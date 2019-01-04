@@ -1,2 +1,5 @@
 # gympad
-This is a side project intended to be developed using React as a learn by doing and to power up one my daily routine
+This is a side project intended to be developed using React as a learn by doing and to power up one of my daily routines! 
+
+Stack used (TBD)
+Acknowledgement (TBD)
