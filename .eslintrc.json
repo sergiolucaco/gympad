@@ -1,7 +1,7 @@
 {
-    "extends": "airbnb",
-    "rules": {
-        "eol-last": 2,
-        "no-multiple-empty-lines": [ 2, { "max": 2, "maxEOF": 1 } ]
-    }
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"]
+  }
 }
